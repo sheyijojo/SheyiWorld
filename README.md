@@ -1,3 +1,3 @@
 # SheyiWorld
-Learning how to code with python -2021
+- Machine Learning class
 This is a project on machine learning done in school using Jupyter.
